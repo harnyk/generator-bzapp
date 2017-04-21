@@ -1,0 +1,8 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Mark",
+      "authorEmail": "mark.garnik@bizzabo.com"
+    }
+  }
+}
